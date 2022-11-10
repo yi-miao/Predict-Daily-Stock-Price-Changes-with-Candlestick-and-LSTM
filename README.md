@@ -47,9 +47,9 @@ Step 8 - Visualize training loss and validation loss
 Step 9 - Visualize predicted and actual stock daily price changes  
 
 
-[Ref 1] https://pypi.org/project/yfinance/
-[Ref 2] https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp
-[Ref 3] https://queirozf.com/entries/add-labels-and-text-to-matplotlib-plots-annotation-examples
-[Ref 4] https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-[Ref 5] http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-[Ref 6] https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889
+[Ref 1] https://pypi.org/project/yfinance/  
+[Ref 2] https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp  
+[Ref 3] https://queirozf.com/entries/add-labels-and-text-to-matplotlib-plots-annotation-examples  
+[Ref 4] https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/  
+[Ref 5] http://colah.github.io/posts/2015-08-Understanding-LSTMs/  
+[Ref 6] https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889  
