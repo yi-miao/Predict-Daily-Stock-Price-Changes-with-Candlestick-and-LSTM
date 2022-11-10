@@ -18,7 +18,7 @@ System Environment
 4. Tensorflow 2.8.0
 5. Jupyter Notebook
 
-Major Process Steps and Comments
+Major Process Steps and Comments  
 Step 1 - Download whole history of a stock as dataset base [Ref 1]  
 Step 2 - Merge the base with most recent data, and serialise it  
 Step 3 - Extract features (X), and calculate stock price changes (Y) [Ref 2]  
@@ -31,7 +31,7 @@ Candlestick body and wicks (modified)
 - High-to-Close  
 - Close-to-Low
 Daily Close Price Change Ratio
-- Close(t-1)/Close(t) 
+- Close(t-1)/Close(t)  
 Step 4 - Visualize most recent stock daily changes [Ref 3]  
 Step 5 - Create datasets for training and testing [Ref 4]  
 Step 6 - Create Keras-LSTM Model [Ref 5][Ref 6]  
