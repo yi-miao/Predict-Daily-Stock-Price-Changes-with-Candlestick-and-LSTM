@@ -30,7 +30,7 @@ Candlestick body and wicks (modified)
 - Close-to-Open  
 - High-to-Close  
 - Close-to-Low
-Daily Close Price Change Ratio
+Daily Close Price Change Ratio  
 - Close(t-1)/Close(t)  
 Step 4 - Visualize most recent stock daily changes [Ref 3]  
 Step 5 - Create datasets for training and testing [Ref 4]  
