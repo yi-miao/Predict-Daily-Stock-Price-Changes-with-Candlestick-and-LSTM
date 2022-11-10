@@ -32,6 +32,7 @@ Candlestick body and wicks (modified)
 - Close-to-Low
 Daily Close Price Change Ratio  
 - Close(t-1)/Close(t)  
+
 Step 4 - Visualize most recent stock daily changes [Ref 3]  
 Step 5 - Create datasets for training and testing [Ref 4]  
 Step 6 - Create Keras-LSTM Model [Ref 5][Ref 6]  
@@ -42,6 +43,7 @@ Step 6 - Create Keras-LSTM Model [Ref 5][Ref 6]
 -     = 4 x [2*(2+4) + 2]  
 -     = 4 x [12 + 2]  
 -     = 56 (LSTM Layer)  
+
 Step 7 - Train LSTM Model  
 Step 8 - Visualize training loss and validation loss  
 Step 9 - Visualize predicted and actual stock daily price changes  
