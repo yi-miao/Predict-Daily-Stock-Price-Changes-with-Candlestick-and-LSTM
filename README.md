@@ -10,6 +10,9 @@ number, tomorrow's price, with high accuracy.
 
 In this project, I tried to use lasted Machine Learning technology to
 predict stock daily prices based on combined business and technical knowledge.
+It is a end-to-end process including data aquisition, preprocessing, model
+creation, model training and results visualization. There are many parameters 
+tunable but I focused on the concepts and process.
 
 System Environment
 1. CPU only
