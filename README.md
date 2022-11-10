@@ -2,7 +2,7 @@ Predict Daily Stock Price Changes with Candlestick and LSTM
 
 Predicting stock price changes is very challenging, and it is even more
 challenging to predict daily price changes. AI gains great success in 
-some areas like image processing and board gaming where either huge 
+some areas like image processing and board gaming where there is either huge 
 redundancy in the images plus great error tolerance of human perception
 /understanding or limit number of strict rules. Predicting stock daily
 changes is very different which requires a system to predict only one
