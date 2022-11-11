@@ -25,12 +25,12 @@ Major Process Steps and Comments
 Step 1 - Download whole history of a stock as dataset base [Ref 1]  
 Step 2 - Merge the base with most recent data, and serialise it  
 Step 3 - Extract features (X), and calculate stock price changes (Y) [Ref 2]  
-The importance of daily prices in order  
+The importance of daily prices in order in source  
 - Close  
 - Open  
 - High, Low  
 
-Candlestick body and wicks (modified)
+Candlestick body, wicks (modified) and day-over-day changes  
 - Close-to-Open  
 - Close-to-Low  
 - Close-to-High
@@ -44,9 +44,9 @@ Step 6 - Create Keras-LSTM Model [Ref 5][Ref 6]
 - h, size of hidden units  
 - i, dimension/size of input  
 - num_params = g × [h(h+i) + h]  
-     = 4 x [2*(2+4) + 2]  
-     = 4 x [12 + 2]  
-     = 56 (LSTM Layer)  
+     = 4 x [4*(4+4) + 4]  
+     = 4 x [32 + 4]  
+     = 144 (LSTM Layer)  
 
 Step 7 - Train LSTM Model  
 Step 8 - Visualize training loss and validation loss  
