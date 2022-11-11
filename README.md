@@ -43,9 +43,9 @@ Step 6 - Create Keras-LSTM Model [Ref 5][Ref 6]
 - h, size of hidden units  
 - i, dimension/size of input  
 - num_params = g × [h(h+i) + h]  
--     = 4 x [2*(2+4) + 2]  
--     = 4 x [12 + 2]  
--     = 56 (LSTM Layer)  
+     = 4 x [2*(2+4) + 2]  
+     = 4 x [12 + 2]  
+     = 56 (LSTM Layer)  
 
 Step 7 - Train LSTM Model  
 Step 8 - Visualize training loss and validation loss  
