@@ -29,6 +29,7 @@ The importance of daily prices in order
 - Close  
 - Open  
 - High, Low  
+
 Candlestick body and wicks (modified)
 - Close-to-Open  
 - High-to-Close  
