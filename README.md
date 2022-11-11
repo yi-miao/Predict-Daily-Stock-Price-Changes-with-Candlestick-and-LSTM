@@ -32,9 +32,10 @@ The importance of daily prices in order
 
 Candlestick body and wicks (modified)
 - Close-to-Open  
-- High-to-Close  
-- Close-to-Low
-- Close Price Change  
+- Close-to-Low  
+- Close-to-High
+- Close-to-Close (Backward)  
+- Close Price Change (Forward)  
 
 Step 4 - Visualize most recent stock daily changes [Ref 3]  
 Step 5 - Create datasets for training and testing [Ref 4]  
