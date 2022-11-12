@@ -35,7 +35,7 @@ Candlestick body, wicks (modified) and day-over-day changes
 - Close-to-Low  
 - Close-to-High
 - Close-to-Close (Backward)  
-- Close Price Change (Forward)  
+- Close-to-Close (Forward)  
 
 Step 4 - Visualize most recent stock daily changes [Ref 3]  
 Step 5 - Create datasets for training and testing [Ref 4]  
