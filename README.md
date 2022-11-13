@@ -52,6 +52,7 @@ Step 7 - Train LSTM Model
 Step 8 - Visualize training loss and validation loss  
 Step 9 - Visualize predicted and actual stock daily price changes  
 
+![Example](data/output.png)
 
 [Ref 1] https://pypi.org/project/yfinance/  
 [Ref 2] https://www.investopedia.com/articles/active-trading/092315/5-most-powerful-candlestick-patterns.asp  
